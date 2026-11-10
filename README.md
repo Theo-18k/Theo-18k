@@ -3,7 +3,7 @@
 
 <img src="profile-banner.svg" alt="Bannière professionnelle infrastructure et systèmes" width="100%" />
 
-# YOUR NAME
+# Tessari Théo
 ### IT Infrastructure · Systems & Networks · Automation
 
 *Comprendre l’infrastructure. Fiabiliser les systèmes. Automatiser ce qui peut l’être.*
