@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34635330/README.md)
 <div align="center">
 
 <img src="profile-banner.svg" alt="Bannière professionnelle infrastructure et systèmes" width="100%" />
